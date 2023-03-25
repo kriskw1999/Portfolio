@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A small project to document and expose my abilities",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxi dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kriskw1999/Portfolio.git"
+  },
+  "author": "Krzysztof Witkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kriskw1999/Portfolio/issues"
+  },
+  "homepage": "https://github.com/kriskw1999/Portfolio#readme",
+  "dependencies": {
+    "nuxt": "^3.3.2"
+  }
+}
